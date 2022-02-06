@@ -1,0 +1,7 @@
+#!/bin/bash
+sudo apt install xastir -y
+sudo apt install gpsd -y
+sudo apt install gpsd-clients -y
+sudo apt install chrony -y
+sudo apt install hostapd -y
+sudo apt install dnsmasq -y
